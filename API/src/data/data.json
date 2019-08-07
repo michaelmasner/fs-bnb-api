@@ -1,0 +1,25 @@
+[{
+    "id": "1",
+    "name": "Byron",
+    "surname": "de Villiers",
+    "cellPhone": "0829123465",
+    "email": "byron@mail.com",
+    "password": "P@ssword",
+    "role": "provider"
+}, {
+    "id": "1",
+    "name": "Brett is a cool guy",
+    "surname": "de Villiers",
+    "cellPhone": "0829123466",
+    "email": "brett@mail.com",
+    "password": "P@ssword",
+    "role": "user"
+}, {
+    "id": "3",
+    "name": "ron",
+    "surname": " Villiers",
+    "cellPhone": "0829123464",
+    "email": "byron@mail.com",
+    "password": "P@ssword",
+    "role": "provider"
+}]
